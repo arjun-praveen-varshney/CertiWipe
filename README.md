@@ -11,6 +11,8 @@
 
 [![CertiWipe Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=TP2FrGPuPj4)
 
+---
+
 ## 🚀 Executive Summary
 
 **CertiWipe** is a revolutionary IT Asset Recycling Platform that ensures **trustworthy, secure, and compliant data destruction** for organizations disposing of electronic equipment. Our solution addresses the critical gap in the IT asset recycling ecosystem by providing military-grade data wiping capabilities with **legally verifiable certificates**.

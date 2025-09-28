@@ -9,11 +9,7 @@
 
 **📺 Watch our complete solution demo:**
 
-[![CertiWipe Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
-
-> **Note:** Replace `YOUR_YOUTUBE_LINK_HERE` with your actual YouTube video link
-
----
+[![CertiWipe Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=TP2FrGPuPj4)
 
 ## 🚀 Executive Summary
 
